@@ -10,15 +10,15 @@ Although once effective and a powerful tool, it has since been hampered, due to 
 ## Major Alliances
 
 ##### **[[Bayfolk Co-Development Sphere]]**
-Lead by the [[Kingdom of the Central Bays]], the B-CoDS is an intergovernmental military and economic alliance that promotes economic co-operation among member states and self-sufficiency on the international stage. 
+Lead by the [[Kingdom of the Central Bays]], Bay-Co is an intergovernmental military and economic alliance that promotes economic co-operation among member states and self-sufficiency on the international stage. 
 
 ##### **[[United Alliance of Societal Equality]]**
-Lead by the [[Socialist Empire of Azcordia]], the uASE is an intergovernmental military and economic alliance that aims to defend the ideology of socialism and societalism against the threats of the world. The uASE also publicly defends workers and lower-income citizens from all corners of the world, and supports all nations with ties or leans towards socialist and societalist policies.
+Lead by the [[Socialist Empire of Azcordia]], the uASE is an intergovernmental military and economic alliance that aims to defend the ideology of [[socialism]] and [[societalism]] against the threats of the world. The uASE also publicly defends workers and lower-income citizens from all corners of the world, and supports all nations with ties or leans towards socialist and societalist policies.
 
 ##### **[[United Lesian Democracies]]**
-Often known as the [[United Lesian Democracies|Lesian Union]], the ULD is 
+Often known as the [[United Lesian Democracies|Lesian Union]], the ULD is a supernational political and economic union, consisting of most of the nations and nation-states in the continent of [[Lesia]]. The Union has often been described as a continent-wide federation, where member states maintain their independent territorial sovereignty, while also participating in legislation that affects the entire region of [[Lesia]] as a whole. 
 
 ##### **[[Unity of Revolutionary Positionist States]]**
-Lead by the 
+Lead by the [[Revolutionary Technate of Alsorthica]], the URPS is an intergovernmental political alliance that seeks to shelter nations that aim to disrupt the ongoing cold war between [[Bayfolk Co-Development Sphere|Bay-Co]] and the [[United Alliance of Societal Equality|uASE]] by following a new cultural and social revolution, often called as "[[Accelerationist Thought]]". 
 
 ##### **[[Collective Organization of the Azure Lands]]**
