@@ -1,11 +1,8 @@
->[!infobox] **The Kingdom of the Central Bays**
+>[!infobox]- **The Kingdom of the Central Bays**
 >*di Kindanoi valo un Centralia Bayes*
->
 >(INSERT IMAGE OF FLAG HERE)
->
 >**Motto**: 
 >**Anthem:** Stars of the Bay (*Un Styroi valo una Baye*)
->
 >**Capital:** [[Thessanoi]]
 >**Official Languages:** [[Baylic]], and most Baylic dialects.
 >**Denonym:** Baylandic
@@ -15,20 +12,31 @@
 > > [!example]- Main Ethnicities
 > > 
 > > **70.4%** [[Baylandic]]
+> > 
 > > **13.2%** [[Hepsi]]
+> > 
 > > **9.3%** [[Desnian]]
+> > 
 > > **5%** [[West-Bay Diaspora]]
+> > 
 >
 > > [!example]- Religion
 > > 
 > > **68.3%** [[Pure Corst]]
+> > 
 > > **24.2%** [[Marbury Corst]]
+> > 
 > > **4.5%** [[Irreligious]]
+> > 
 >
 > **Government:** Semi-Constitutional Monarchy
+> 
 > --- **King:** Flervion IV of Antimonius
+> 
 > --- **Prime Minister:** Calcionius Argiena
+> 
 > --- **Ruling Party:** [[Royal Reform Party|RRP]]
+> 
 > **IA-National Code:** KCB
 
 
