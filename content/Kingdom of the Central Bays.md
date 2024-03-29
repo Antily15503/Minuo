@@ -13,12 +13,14 @@
 >**Main Religion:** [[Pure Corst]]
 >
 > > [!example]- Main Ethnicities
+> > 
 > > **70.4%** [[Baylandic]]
 > > **13.2%** [[Hepsi]]
 > > **9.3%** [[Desnian]]
 > > **5%** [[West-Bay Diaspora]]
 >
 > > [!example]- Religion
+> > 
 > > **68.3%** [[Pure Corst]]
 > > **24.2%** [[Marbury Corst]]
 > > **4.5%** [[Irreligious]]

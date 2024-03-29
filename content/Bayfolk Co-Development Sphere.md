@@ -3,8 +3,8 @@ The **Bayfolk Co-Development Sphere**, or Bay-Co, for short, is an international
 Affiliations:
 - [[Proponents of Prosperity]] within the [[International Assembly]]
 
+**Leading Member: [[Kingdom of the Central Bays]]**
 Member States:
-- **Leading Member: [[Kingdom of the Central Bays]]**
 - [[Democratic State of Merća]]
 - [[Kingdom of Descortania]]
 - [[Grand Principality of Versín]]
