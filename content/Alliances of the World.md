@@ -10,7 +10,7 @@ Although once effective and a powerful tool, it has since been hampered, due to 
 ## Major Alliances
 
 ##### **[[Bayfolk Co-Development Sphere]]**
-Lead by the [[Kingdom of the Central Bays]], Bay-Co is an intergovernmental military and economic alliance that promotes economic co-operation among member states and self-sufficiency on the international stage. 
+Lead by the [[Central Bays]], Bay-Co is an intergovernmental military and economic alliance that promotes economic co-operation among member states and self-sufficiency on the international stage. 
 
 ##### **[[United Alliance of Societal Equality]]**
 Lead by the [[Socialist Empire of Azcordia]], the uASE is an intergovernmental military and economic alliance that aims to defend the ideology of [[socialism]] and [[societalism]] against the threats of the world. The uASE also publicly defends workers and lower-income citizens from all corners of the world, and supports all nations with ties or leans towards socialist and societalist policies.
