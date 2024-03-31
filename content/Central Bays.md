@@ -2,7 +2,7 @@
 >*di Kindanoi valo un Centralia Bayes*
 >(INSERT IMAGE OF FLAG HERE)
 >**Motto**: 
->**Anthem:** Stars of the Bay (*Un Styroi valo una Baye*)
+>**Anthem:** Stars of the Bay
 >**Capital:** [[Thessanoi]]
 >**Official Languages:** [[Baylic]], and most Baylic dialects.
 >**Denonym:** Baylandic
@@ -39,7 +39,7 @@
 > 
 > **IA-National Code:** KCB
 
-The **Constitutional Union of the Central Bays** ([[Baylic]]: Cozantitucalion valo un Centralia Bayes), often known as the "Kingdom of the Central Bays", "Bayfolk Kingdom", or simply "Central Bays" is the Kingdom that spans most of the [[Baylands]]. It is often considered the remaining kingdom of the once powerful [[Empire of Kaision]], and as such, is most often times called Kaision, or "Kaision Kingdom". The country's 21 independent provinces ([[Baylic]]: provincae) is home to around 93 million citizens, all jointly ruled under King **Flervion IV of Antimonius**, as well as the Chamber of the Sentae  
+The **Constitutional Union of the Central Bays** ([[Baylic]]: Cozantitucalion valo un Centralia Bayes), often known as the "Kingdom of the Central Bays", "Bayfolk Kingdom", or simply "Central Bays" is the Kingdom that spans most of the [[Baylands]]. It is often considered the remaining kingdom of the once powerful [[Empire of Kaision]], and as such, is sometimes called Kaision, or "Kaision Kingdom". The country's 21 independent provinces ([[Baylic]]: provincae) is home to around 93 million citizens, all jointly ruled under King **Flervion IV of Antimonius**, as well as the Chamber of the Sentae  
 
 The Bayfolk Kingdom's capital and largest city is **[[Thessanoi]]**, located and spans a large region of the [[Isioni Dalmania Province]]. It's main financial center is [[Aqualamino]], located in the [[Aquamentian Province]]. 
 

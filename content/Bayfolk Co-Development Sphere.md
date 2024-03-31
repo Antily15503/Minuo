@@ -16,7 +16,7 @@ Member States:
 - [[Alliance of the Five Golden Cantons]]
 - [[Democratic State of Merća]]
 - [[Descortania|Kingdom of Descortania]]
-	- [[Versín|Grand Principality of Versín]]
+- [[Versín|Grand Principality of Versín]]
 - [[Hespion|Republic of Hespion]]
 - [[Arvin Communality|United Arvin Communality]]
 - [[Ealsridge|Technate of Ealsridge]]
