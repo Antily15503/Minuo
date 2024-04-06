@@ -6,7 +6,7 @@ Sozeitalversky (Guardian of Societalism): **[[Socialist Empire of Azcordia]]**
 	- [[Autonomous Socialist State of Cerdozne]]
 	- [[Autonomous Socialist State of Lverzco]]
 	- [[Autonomous Social Parishes of Vezhnia]]
-	- [[Autonomous Society of the April 14th Revolution]]
+	- [[Revolutionary Nemza|Autonomous Revolutionary State of the April 14th Revolution]]
 	- [[Autonomous Worker's Syndicate of Northern Czernjoskava]]
 
 Sozietalparzienovka (Member States of Societalism)

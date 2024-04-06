@@ -1,5 +1,5 @@
 >[!infobox]- **The Kingdom of the Central Bays**
->*di Kindanoi valo un Centralia Bayes*
+>*di Kindanoi valo una Centralia Bayes*
 >(INSERT IMAGE OF FLAG HERE)
 >**Motto**: 
 >**Anthem:** Stars of the Bay
