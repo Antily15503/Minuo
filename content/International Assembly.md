@@ -10,3 +10,9 @@ The General Committee, consisting of all member states in Minuo, who gets the po
 
 The Advisory Committee, consisting of representatives in different fields of studies that forms several different ministries within the IA. Representatives are not affiliated with any governmental body, and conceives / debates on policies within each ministry, that are then passed to the Executive and General Committee. 
 ## History
+
+
+## Government
+
+##### **General Assembly**
+

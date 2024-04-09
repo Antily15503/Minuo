@@ -40,4 +40,4 @@ It is uncertain where the name "Versín" first came from, though it is commonly 
 
 Versín, when it was conquered by the growing [[Empire of Kaision]], was renamed to Verision Province. However, after the independence of the Versini people, the nation reverted to it's old name of "Versín" to preserve the identity of the Versini people.
 
-## Name
+## Government
