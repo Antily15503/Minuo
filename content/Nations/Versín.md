@@ -41,3 +41,4 @@ It is uncertain where the name "Versín" first came from, though it is commonly 
 Versín, when it was conquered by the growing [[Empire of Kaision]], was renamed to Verision Province. However, after the independence of the Versini people, the nation reverted to it's old name of "Versín" to preserve the identity of the Versini people.
 ## Government
 
+The **Holy Province of Versín** is one of the few remaining entities in [[Minuo]] that still adheres to a theocratic government. The government of Versín is modeled after the [[1634 Model of Holy Tribunal]], a treaty issued by the [[Papal Authority]] of the Pure Corst sect that dictates how a "holy city" or "holy province" shall be governed. It is said that holy provinces that are blessed to represent the will of the Corst must be governed to remove the threat of corruption, and as such, the Holy Province of Versín seeks to organize themselves upon the hierarchy outlined by the Holy Tribunal Model. 
