@@ -47,52 +47,7 @@ The [[Central Bays|Kingdom of the Central Bays]] nowadays is probably most well 
 
 Politics and Military aside, however, the Kingdom also prides itself in its rich cultural and archaeological history. From the [[Ruins of Haspiciopolis]] to the [[Ruined Temple of the Sun]], the Kingdom is famous for its strict laws surrounding historical buildings, and the quality of care it spends to maintain archaeological ruins. 
 
-## Provinces
-
-Isioni Dalmania (Capital)
-
-Aquamentia
-
-Ithia
-
-Rithoi
-
-Carthano Isioni
-
-Lipesia
-
-Mordania
-
-Tantana
-
-Abenii
-
-Lusatina
-
-Darcinum
-
-Macaritia
-
-Haspicicum
-
-Usevia
-
-Narbasia
-
-Conactria
-
-Istritrya
-
-Palothica
-
-Flervica
-
-Qicarthia
-
-Jenetinio
-
-
-
+## [[Central Bays Atlas | Atlas Link]]
 
 ## History
 
