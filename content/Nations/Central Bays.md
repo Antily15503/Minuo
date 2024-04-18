@@ -52,6 +52,9 @@ Politics and Military aside, however, the Kingdom also prides itself in its rich
 ## History
 
 ## Economy
+Main Page: [[Bayfolk Economy Page]]
+
+
 
 ## Government
 
